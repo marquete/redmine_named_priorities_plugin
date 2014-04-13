@@ -1,5 +1,9 @@
 # Redmine Named Priorities plugin #
 
+## Update ##
+
+I've been using an old version of Redmine while developing, and version 2.2.0 renders the plugin obsolete in this commit: https://github.com/redmine/redmine/commit/113f8b5cf278ff32bd55bf63aafe11c3f5a085f1. I'll leave this here anyway.
+
 ## What? ##
 
 A plugin for Redmine 2.x that makes issues' CSS classes (in the table in the *Issues* tab) include their priority's name.
